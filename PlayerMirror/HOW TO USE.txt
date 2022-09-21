@@ -1,3 +1,0 @@
-**How To Use**
-Drag "PlayerBackCamera" To Player
-UI Will Make "PlayerBackCamera" Act As A Rear View Mirror
