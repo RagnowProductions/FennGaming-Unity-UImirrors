@@ -1,3 +1,0 @@
-**How To Use**
-Drag "PlayerLeftCamera" And "PlayerRightCamera" To Player
-UI Will Make The Cameras Work As Side View UI Elements
